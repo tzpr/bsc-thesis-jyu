@@ -1,3 +1,5 @@
-#### Asiakkaan rooli ketterän lähestymistavan mukaisessa kehittämistyössä
+### Asiakkaan rooli ketterän lähestymistavan mukaisessa kehittämistyössä
 
+Tietojärjestelmätieteen kandidaatintutkielma Jyväskylän yliopisto 2010
+ 
 http://urn.fi/URN:NBN:fi:jyu-201006242158

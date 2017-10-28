@@ -1,4 +1,3 @@
-# bsc-thesis-jyu
-Asiakkaan rooli ketterän lähestymistavan mukaisessa kehittämistyössä
+#### Asiakkaan rooli ketterän lähestymistavan mukaisessa kehittämistyössä
 
-
+http://urn.fi/URN:NBN:fi:jyu-201006242158
